@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>TITLE</key>
+		<string>美女</string>
+		<key>FILENAME</key>
+		<string>2</string>
+		<key>DATE</key>
+		<string>12-11 6:09</string>
+		<key>COUNT</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>TITLE</key>
+		<string>其它</string>
+		<key>FILENAME</key>
+		<string>10</string>
+		<key>DATE</key>
+		<string>12-13 6:09</string>
+		<key>COUNT</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>TITLE</key>
+		<string>风景</string>
+		<key>FILENAME</key>
+		<string>11</string>
+		<key>DATE</key>
+		<string>12-12 6:09</string>
+		<key>COUNT</key>
+		<integer>8</integer>
+	</dict>
+</array>
+</plist>
